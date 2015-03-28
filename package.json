@@ -1,0 +1,29 @@
+{
+  "name": "domstate",
+  "version": "1.0.0",
+  "description": "An event driven way to manage elements' state via data-attributes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "front-end",
+    "dom",
+    "state-management",
+    "htmlelement",
+    "component"
+  ],
+  "author": "Jared Anderson",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^3.8.11",
+    "gulp-babel": "^4.0.0",
+    "gulp-clean": "^0.3.1",
+    "gulp-es6-module-transpiler": "^0.2.1",
+    "gulp-flatten": "0.0.4",
+    "gulp-jshint": "^1.9.4",
+    "gulp-load-plugins": "^0.9.0",
+    "gulp-rename": "^1.2.0",
+    "gulp-uglify": "^1.1.0"
+  }
+}
