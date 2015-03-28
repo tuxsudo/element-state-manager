@@ -1,11 +1,12 @@
 {
   "name": "element-state-manager",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "homepage": "https://github.com/TuxSudo/element-state-manager",
   "authors": [
     "Jared Anderson <jared@tuxsudo.com>"
   ],
   "description": "An event-driven, low-level component to manage DOM elements' state",
+  "main": "es5/element-state-manager.min.js",
   "moduleType": [
     "es6",
     "globals"

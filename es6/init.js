@@ -1,5 +1,5 @@
 import config from './defaults';
-import init from './init';
+import init from './lib';
 
 
 init(config);

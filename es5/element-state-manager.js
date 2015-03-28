@@ -17,7 +17,7 @@
 
     };
 
-    var $$init$$default = function $$init$$default(config) {
+    var $$lib$$default = function $$lib$$default(config) {
 
         // shortcut to dispatch bubbling events
         var notify = function (elm, ev, data) {
@@ -52,5 +52,5 @@
         window.addEventListener(config.commands.unset, unset);
     };
 
-    $$init$$default($$defaults$$default);
+    $$lib$$default($$defaults$$default);
 }).call(undefined);

@@ -1,8 +1,8 @@
 {
   "name": "domstate",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "An event driven way to manage elements' state via data-attributes",
-  "main": "index.js",
+  "main": "es5/element-state-manager.min.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
